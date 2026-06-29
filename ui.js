@@ -18,5 +18,6 @@ function movieDisplay(movies) {
     `;
   });
 }
-fetchMovies('batman')
-movieDisplay(currentResults);
+fetchMovies('rambo')
+movieDisplay(currentResults); 
+
